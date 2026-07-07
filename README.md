@@ -1,1 +1,1 @@
-# Foto-de-producto
+# foto-de-producto
